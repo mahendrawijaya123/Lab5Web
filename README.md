@@ -156,6 +156,7 @@ source code
 ## 7. Seleksi kondisi (IF/ELSE)
 ![gambar](img/Seleksi%20kondisi.png)
 ![gambar](img/seleksi%20kondisi%202.png)
+
 disini adalah program seleksi kondisi dari if else jika nilai sama dengan 60 berarti lulus dengan elsenya jika di bawah 60 berarti tidak lulus
 
 source code
