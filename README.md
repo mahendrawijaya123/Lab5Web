@@ -1,6 +1,8 @@
 # Lab5Web
 ## 1. Membuat Javascript yang sederhana
+
 ![gambar](img/Membuat%20javascript%20sederhana.png)
+
 Membuat javascript yang sederhana dengan perintah document,write dan console.log
 
 source code
@@ -25,7 +27,9 @@ source code
 </html>
 ```
 ## 2. Javascript dasar
+
 ![gambar](img/Javascript%20dasar.png)
+
 properti alert untuk perintah pop
 
 source code
@@ -47,7 +51,9 @@ source code
 </html>
 ```
 ## 3. Method dalam objek
+
 ![gambar](img/Method%20dalam%20objek.png)
+
 Menggunakan method dalam objek javascript
 
 source code
@@ -71,7 +77,9 @@ source code
 </html>
 ```
 ## 4. Memakai properti prompt
+
 ![gambar](img/Memakai%20properti%20prompt.png)
+
 Pemakaian properti prompt window pada script
 
 source code
@@ -94,7 +102,9 @@ source code
 </html>
 ```
 ## 5. Pembuatan fuction dan cara pemanggilannya
+
 ![gambar](img/pembuatan%20fuction.png)
+
 menggunakan fuction dengan body onload di javacript seperti gambar di atas
 
 source code
@@ -119,7 +129,9 @@ source code
 </html>
 ```
 ## 6. Operasi dasar aritmatika
+
 ![gambar](img/operasi%20dasar%20aritmatika.png)
+
 operasi dasar aritmatika dalam javasript seperti contoh di atas ini
 
 source code
@@ -155,6 +167,7 @@ source code
 ```
 ## 7. Seleksi kondisi (IF/ELSE)
 ![gambar](img/Seleksi%20kondisi.png)
+
 ![gambar](img/seleksi%20kondisi%202.png)
 
 disini adalah program seleksi kondisi dari if else jika nilai sama dengan 60 berarti lulus dengan elsenya jika di bawah 60 berarti tidak lulus
@@ -184,9 +197,13 @@ source code
 </html>
 ```
 ## 8. Penggunaan operator switch untuk seleksi kondisi 
+
 ![gambar](img/Penggunaan%20operator.png)
+
 pilihan nya adalah 4 untuk pemilihan switch nya maka tampilan di browsernya adalah bilangan empat
+
 ![gambar](img/pengunaan%20operator%202.png)
+
 seperti contoh gambar di atas
 
 source code
@@ -234,6 +251,7 @@ source code
 ```
 ## 9. Form input
 ![gambar](img/form%20input.png)
+
 contoh membuat form input dengan javascript dan html
 
 source code
@@ -266,6 +284,7 @@ source code
 ```
 ## 10. Form button
 ![gambar](img/form%20buttom.png)
+
 membuat form button dengan menggunakan javascript dan function
 
 source code
@@ -303,6 +322,7 @@ source code
 ```
 ## 11. HTML DOM
 ![gambar](img/html%20dom.png)
+
 membuat HTML DOM dengan javascript dan script dalam html juga check box
 
 source code
@@ -345,7 +365,9 @@ source code
 ```
 # Pertanyaan dan tugas buat validasi from
 ![gambar](img/Jawaban%20nomer%20satu.png)
+
 harus mengisi semua data baru terkirim jika tidak mengisi semua data maka tidak akan terpanggil
+
 ![gambar](img/jawaban%20nomer%20satu%20(2).png)
 contohnya seperti gambar di atas ini
 
